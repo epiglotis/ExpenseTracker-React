@@ -1,8 +1,8 @@
 # 🔭 What is this project?
   My first project created with React. Created to introduce myself to React Essentials such as Hooks and Props
 
-# 💫 How to start:
-🔭 Simply write "npm start" to the terminal
+# 💫 How to view:
+🔭 Simply write "npm start" to the terminal or click this link: https://epiglotis.github.io/ExpenseTracker-React/
 
 
 ## 🌐 Socials:
